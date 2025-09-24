@@ -2,7 +2,7 @@
 
 Specifically for this PoE-HAT: https://www.waveshare.com/wiki/PoE_HAT_(B)
 
-Home Assistant (HASS) Addon to fully support Waveshare PoE HAT B ,including fan control and display.
+Home Assistant (HASS) Addon to fully support Waveshare PoE HAT B, including fan control and display.
 
 This is a fork of grootwitbaas' fork of reschix's original, with Dockerfile changes to fix errors after July 2023. Please refer to their repos for any details. Credit goes to original code and to grootwitbaas' modifications.
 
